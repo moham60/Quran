@@ -267,7 +267,10 @@ video {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
+.zekrKind,.numZekr{
+  display:flex;
+  align-items:center;
+}
 #Azkar .tit p {
   color: white;
   font-size: 80px;
