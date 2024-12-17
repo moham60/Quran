@@ -85,7 +85,7 @@ option:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: url("../img/bowl-multicolored-lukum-red-holy-rosary-beads-kuran-with-candles-wooden-surface.jpg");
+  background: url("../img/bowl-multicolored-lukum-red-holy-rosary-beads-kuran-with-candles-wooden-surface.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -262,7 +262,7 @@ video {
 }
 
 #Azkar {
-  background: url("../img/lamp-book-table.jpg");
+  background: url("../img/lamp-book-table.webp");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -365,7 +365,7 @@ span {
 }
 /*TimePray*/
 #TimePray {
-  background: url("../img/29135.jpg");
+  background: url("../img/29135.webp");
   background-position: center;
   background-size: cover;
 }
@@ -421,7 +421,7 @@ span {
 /*SuraText*/
 
 #SuraText {
-  background: url("../img/09-150ppp.jpg");
+  background: url("../img/09-150ppp.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
